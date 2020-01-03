@@ -26,7 +26,7 @@ Now you should have the executable file _cacti_.
 ### Using the Batch Generator
 
 To run the batch generator program implemented on top of CACTI, you need to:
-1.	Make sure the CACTI version you installed works correctly by testing it with any configuration file. See the previous section [Installation]() for more details about using CACTI for a single file.
+1.	Make sure the CACTI version you installed works correctly by testing it with any configuration file. See the previous section [Installation](https://github.com/abuaesh/CACTI-Batch-Generator/blob/master/README.md#installation) for more details about using CACTI for a single file.
 2.	Save the interface file: _cacti_if.cpp_ and the configuration file: _temp.cfg_ together in the same directory.
 3.	Update the path to the installed version of CACTI in the file: _cacti_if.cpp_, line 178. 
 4.	Compile _cacti_if.cpp_ using the g++ command, as follows: 
