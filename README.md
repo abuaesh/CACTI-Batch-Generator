@@ -44,7 +44,7 @@ The program gives the time elapsed for running. The final results are saved in a
  
  # More Information
  
- You can find more information about this project in the description document.
+ You can find more information about this project in the [description document.](https://github.com/abuaesh/CACTI-Batch-Generator/blob/master/project_description.pdf)
 
 
 
