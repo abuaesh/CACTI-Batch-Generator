@@ -3,7 +3,7 @@ This projects implements an interface to CACTI 6.5 simulator. It allows automati
 
 ## Installation
 
-1. To get the CACTI Batch Generator up and running, you first need a working version of CACTI set up on you machine. This repository contains the CACTI version 6.5. You can set it up on your machine by running the following commands from a Linux terminal:
+1. To get the CACTI Batch Generator up and running, you first need a working version of CACTI set up on you machine. You can find the latest version of CACTI [here](https://github.com/HewlettPackard/cacti). This repository contains the CACTI version 6.5. It doesn't matter which version of CACTI you decide to have, the batch generator will work with any of them. However, if for som reason you want to work on CACTI 6.5, you can set it up on your machine by running the following commands from a Linux terminal:
 
 ` git pull https://github.com/abuaesh/CACTI-Batch-Generator
 cd cacti65
@@ -11,7 +11,7 @@ make
 `
 Now you should have the executable file _cacti_. 
 
-2. The next step is to compile _cacti_if_. 
+2. Now, compile _cacti_if_. 
 
 ## Usage
 
