@@ -1,9 +1,9 @@
 # CACTI-Batch-Generator
-This projects implements an interface to CACTI 6.5 simulator. It allows automatically generating simulation results for a range of memory configurations with just one command. CACTI is a cache, scratchpad and RAM memory simulation tool. 
+This projects implements an interface to the open source memory simulator: CACTI. CACTI is a cache, scratchpad and RAM memory simulation tool.. The batch generator automatically generates simulation results for any range of memory configurations with just one command and saves the results in just one file for you to work on.  
 
 ## Installation
 
-1. To get the CACTI Batch Generator up and running, you first need a working version of CACTI set up on you machine. You can find the latest version of CACTI [here](https://github.com/HewlettPackard/cacti). This repository contains the CACTI version 6.5. It doesn't matter which version of CACTI you decide to have, the batch generator will work with any of them. However, if for som reason you want to work on CACTI 6.5, you can set it up on your machine by running the following commands from a Linux terminal:
+1. To get the CACTI Batch Generator up and running, you first need a working version of CACTI set up on you machine. You can find the latest version of CACTI [here](https://github.com/HewlettPackard/cacti). It doesn't matter which version of CACTI you decide to have, the batch generator will work with any of them. However, if for some reason you want to work on CACTI 6.5, you can use this repository to install the CACTI version 6.5. You can set it up on your machine by running the following commands from a Linux terminal:
 
 ` git pull https://github.com/abuaesh/CACTI-Batch-Generator
 cd cacti65
